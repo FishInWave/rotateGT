@@ -1,0 +1,3 @@
+/home/xyw/catkin_ws/small-tools/rotateGT/build/CMakeFiles/rebuild_cache.dir
+/home/xyw/catkin_ws/small-tools/rotateGT/build/CMakeFiles/edit_cache.dir
+/home/xyw/catkin_ws/small-tools/rotateGT/build/CMakeFiles/rotateGT.dir
